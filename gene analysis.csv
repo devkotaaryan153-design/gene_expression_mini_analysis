@@ -1,0 +1,9 @@
+gene,condition,expression
+BRCA1,healthy,5.2
+BRCA1,disease,8.5
+TP53,healthy,6.1
+TP53,disease,9.2
+EGFR,healthy,4.8
+EGFR,disease,7.9
+MYC,healthy,3.5
+MYC,disease,6.8
